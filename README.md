@@ -1,5 +1,9 @@
-# Welcome to GitHub Desktop!
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JungEun&fontSize=90)
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+<h3 align="center">Tech Stack</h3>
+<p align="center">Techs that I've used at least once</p>
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+<p align="center">
+![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Python&logoColor=white)
+
+</p>
