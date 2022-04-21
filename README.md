@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JungEun&fontSize=90&fontcolor=black)
+![header](https://capsule-render.vercel.app/api?type=wave&color=C5E1A5&height=300&section=header&text=JungEun&fontSize=90&fontcolor=black)
 
 <h3 align="center">👩‍💻Tech Stack👩‍💻</h3>
 <p align="center">💡Techs that I've used as the main</p>
@@ -34,5 +34,5 @@
 </p>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=AED581&height=200&section=footer)
 
